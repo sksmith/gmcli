@@ -1,0 +1,47 @@
+days_in_year: 455
+calendars:
+- name: Celestian
+  abbreviation: CL
+  start_year: 14236
+  total_years: 450
+  ages:
+  - name: Divine Founding
+    abbreviation: DF
+    length: 450
+  months:
+  - name: First Light
+    days: 37
+    season: Spring
+  - name: Flower Bloom
+    days: 38
+    season: Spring
+  - name: Risen Tempest
+    days: 38
+    season: Spring
+  - name: Justice Scale
+    days: 38
+    season: Summer
+  - name: Forge Fire
+    days: 38
+    season: Summer
+  - name: Risen Sail
+    days: 38
+    season: Summer
+  - name: Hearth Heat
+    days: 38
+    season: Fall
+  - name: Open Tome
+    days: 38
+    season: Fall
+  - name: Trial Fight
+    days: 38
+    season: Fall
+  - name: Loom Churn
+    days: 38
+    season: Winter
+  - name: Lost Sun
+    days: 38
+    season: Winter
+  - name: Open Door
+    days: 38
+    season: Winter
